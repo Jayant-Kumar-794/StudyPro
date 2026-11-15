@@ -2,8 +2,6 @@
 StudyPro – Student Task &amp; Exam Manager
 
 
-StudyPro – Student Task & Exam Manager
-
 StudyPro is a Python-based desktop application designed to help students organize their academic activities, manage assignments, track examinations, and monitor upcoming deadlines in one place.
 
 Built using Python Tkinter for the graphical user interface and SQLite for data storage, StudyPro provides a convenient environment for students to manage their academic schedules and monitor their progress.
